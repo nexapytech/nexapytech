@@ -1,11 +1,8 @@
 ![Test Image](https://upload.wikimedia.org/wikipedia/commons/3/3f/GitHub_logo_2013.svg)
 
-
----
-
 <h3 align="center">
 Python Backend Engineer | Django, REST APIs, CI/CD  
-Founder @ NexaPy Technologies — building scalable APIs and backend platforms
+Founder @ NexaPy Technologies  building scalable APIs and backend platforms
 </h3>
 
 <p align="center">
@@ -19,12 +16,12 @@ Founder @ NexaPy Technologies — building scalable APIs and backend platforms
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a **Python Backend Engineer** specializing in **Django, REST APIs, and CI/CD pipelines**.  
 I build secure, scalable, and maintainable backend systems that solve real-world problems.
 
-As the **Founder of NexaPy Technologies**, I focus on designing backend platforms, APIs, and developer-focused tools that improve efficiency, reduce manual work, and scale with real usage.
+As the **Founder of NexaPy Technologies**, I focus on designing backend platforms, APIs, and developer focused tools that improve efficiency, reduce manual work, and scale with real usage.
 
 ---
 
@@ -33,7 +30,7 @@ As the **Founder of NexaPy Technologies**, I focus on designing backend platform
 ### 🔹 Django CBT Platform
 **Problem:** Traditional examination systems are prone to cheating, require heavy manual effort, and consume a lot of time.  
 **Solution:** A computer-based testing (CBT) platform that minimizes cheating, reduces administrative workload, and improves time efficiency for both students and administrators.  
-**Tech:** Python, Django, PostgreSQL, HTML/CSS  
+**Tech:** Python, Django, MySQL, HTML/CSS  
 🔗 Repo: https://github.com/nexapytech/django-cbt-platform
 
 ---
@@ -41,7 +38,7 @@ As the **Founder of NexaPy Technologies**, I focus on designing backend platform
 ### 🔹 Expense Tracker API
 **Problem:** Manual expense tracking makes it difficult to understand spending patterns and manage finances effectively.  
 **Solution:** A RESTful API that tracks expenses, categorizes spending, and provides monthly charts to visualize where money is spent the most.  
-**Tech:** Python, FastAPI, SQL, REST APIs  
+**Tech:** Python, Django-rest-framework, MySQL, REST APIs  
 🔗 Repo: https://github.com/nexapytech/expense-tracker-api
 
 ---
