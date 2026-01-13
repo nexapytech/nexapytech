@@ -1,4 +1,4 @@
-
+<img width="1980" height="1080" alt="nexapycbt" src="https://github.com/user-attachments/assets/70cea50e-51b7-4119-87f4-406dd279735d" />
 <h3 align="center">
 Python Backend Engineer | Django, REST APIs, CI/CD  
 Founder @ NexaPy Technologies  building scalable APIs and backend platforms
@@ -18,6 +18,8 @@ As the **Founder of NexaPy Technologies**, I focus on designing backend platform
 ## ⭐ Featured Projects
 
 ###  Django CBT Platform
+![CBT Preview](assets/nexapycbt.png)!
+
 **Problem:** Traditional examination systems are prone to cheating, require heavy manual effort, and consume a lot of time.  
 **Solution:** A computer-based testing (CBT) platform that minimizes cheating, reduces administrative workload, and improves time efficiency for both students and administrators.  
 **Tech:** Python, Django, MySQL, HTML/CSS  
