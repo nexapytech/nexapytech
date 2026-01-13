@@ -8,7 +8,7 @@ Founder @ NexaPy Technologies  building scalable APIs and backend platforms
   <a href="https://nexapytechnologies.com">
     <img src="https://img.shields.io/badge/Website-nexapytechnologies.com-blue?style=for-the-badge" />
   </a>
->
+
 ---
 
 ##  About Me
