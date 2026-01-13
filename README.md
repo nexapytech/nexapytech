@@ -1,4 +1,4 @@
-![NexaPyTech Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NexaPyTech&fontSize=48&fontColor=ffffff)
+![NexaPyTech Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NexaPyTech&fontSize=48&fontColor=ffffff&format=png)
 
 ---
 
