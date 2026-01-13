@@ -2,8 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NexaPyTech&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+---
+
 <h3 align="center">
-Python backend engineer & data-minded builder focused on scalable systems and practical solutions.
+Python Backend Engineer | Django, REST APIs, CI/CD  
+Founder @ NexaPy Technologies — building scalable APIs and backend platforms
 </h3>
 
 <p align="center">
@@ -19,46 +22,46 @@ Python backend engineer & data-minded builder focused on scalable systems and pr
 
 ## 🚀 About Me
 
-I’m a **Python backend engineer** who builds **data-driven systems, APIs, and platforms** that solve real-world problems.  
-My work focuses on clean architecture, reliability, and turning ideas into production-ready software.
+I’m a **Python Backend Engineer** specializing in **Django, REST APIs, and CI/CD pipelines**.  
+I build secure, scalable, and maintainable backend systems that solve real-world problems.
 
-This GitHub showcases backend projects, platforms, and APIs built with scalability and clarity in mind.
+As the **Founder of NexaPy Technologies**, I focus on designing backend platforms, APIs, and developer-focused tools that improve efficiency, reduce manual work, and scale with real usage.
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 🔹 Django CBT Platform
-**Problem:** Manual or offline CBT (computer-based testing) systems are inefficient, hard to scale, and difficult to manage.  
-**Solution:** A web-based CBT platform that enables online examinations, user management, and test workflows.  
-**Tech:** Django, Python, HTML/CSS, PostgreSQL  
+**Problem:** Traditional examination systems are prone to cheating, require heavy manual effort, and consume a lot of time.  
+**Solution:** A computer-based testing (CBT) platform that minimizes cheating, reduces administrative workload, and improves time efficiency for both students and administrators.  
+**Tech:** Python, Django, PostgreSQL, HTML/CSS  
 🔗 Repo: https://github.com/nexapytech/django-cbt-platform
 
 ---
 
-### 🔹 NexaPy LearnHub
-**Problem:** Learning resources are often scattered and lack a centralized, structured backend system.  
-**Solution:** A learning platform backend designed to manage educational content and user interactions efficiently.  
-**Tech:** Python, Django, REST APIs  
-🔗 Repo: https://github.com/nexapytech/nexapy-learnhub
-
----
-
 ### 🔹 Expense Tracker API
-**Problem:** Tracking expenses manually leads to poor financial visibility and errors.  
-**Solution:** A RESTful API that allows users to record, categorize, and analyze expenses programmatically.  
+**Problem:** Manual expense tracking makes it difficult to understand spending patterns and manage finances effectively.  
+**Solution:** A RESTful API that tracks expenses, categorizes spending, and provides monthly charts to visualize where money is spent the most.  
 **Tech:** Python, FastAPI, SQL, REST APIs  
 🔗 Repo: https://github.com/nexapytech/expense-tracker-api
 
 ---
 
+### 🔹 NexaPy LearnHub
+**Problem:** Developers often lack a collaborative platform focused on learning and solving real-world problems together.  
+**Solution:** A learning and collaboration hub for enthusiastic developers interested in Python programming—connecting developers to learn, collaborate, and solve real-life problems as a community.  
+**Tech:** Python, Django, REST APIs  
+🔗 Repo: https://github.com/nexapytech/nexapy-learnhub
+
+---
+
 ## 🛠 Tech Stack
 
-- **Languages:** Python, JavaScript  
-- **Frameworks:** Django, FastAPI  
+- **Languages:** Python3  
+- **Frameworks:** Django, Flask 
 - **APIs:** REST, JSON  
-- **Databases:** PostgreSQL, SQLite  
-- **Tools:** Git, Docker, Linux  
+- **Databases:** MySQL, SQLite3  
+- **DevOps:** CI/CD, Docker, Git, Linux  
 
 ---
 
@@ -71,7 +74,7 @@ This GitHub showcases backend projects, platforms, and APIs built with scalabili
 ---
 
 <p align="center">
-  <i>Building backend systems that scale and make sense.</i>
+  <i>Building backend systems that scale and solve real problems.</i>
 </p>
 
 <p align="center">
