@@ -4,11 +4,6 @@ Python Backend Engineer | Django, REST APIs, CI/CD
 Founder @ NexaPy Technologies  building scalable APIs and backend platforms
 </h3>
 
-<p align="center">
-  <a href="https://nexapytechnologies.com">
-    <img src="https://img.shields.io/badge/Website-nexapytechnologies.com-blue?style=for-the-badge" />
-  </a>
-
 ---
 
 ##  About Me
