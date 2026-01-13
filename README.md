@@ -18,7 +18,8 @@ As the **Founder of NexaPy Technologies**, I focus on designing backend platform
 ## ⭐ Featured Projects
 
 ###  Django CBT Platform
-![CBT Preview](assets/nexapycbt.png)
+[![CBT Preview](https://raw.githubusercontent.com/nexapytech/nexapytech/main/assets/nexapycbt.png)](https://github.com/nexapytech/django-cbt-platform)
+
 
 
 **Problem:** Traditional examination systems are prone to cheating, require heavy manual effort, and consume a lot of time.  
