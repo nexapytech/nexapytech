@@ -1,4 +1,4 @@
-<img width="1980" height="1080" alt="nexapycbt" src="https://github.com/user-attachments/assets/70cea50e-51b7-4119-87f4-406dd279735d" />
+
 <h3 align="center">
 Python Backend Engineer | Django, REST APIs, CI/CD  
 Founder @ NexaPy Technologies  building scalable APIs and backend platforms
