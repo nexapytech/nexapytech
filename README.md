@@ -1,4 +1,5 @@
-![NexaPyTech Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NexaPyTech&fontSize=48&fontColor=ffffff&format=png)
+![Test Image](https://upload.wikimedia.org/wikipedia/commons/3/3f/GitHub_logo_2013.svg)
+
 
 ---
 
