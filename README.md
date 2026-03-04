@@ -16,7 +16,7 @@ As the **Founder of NexaPy Technologies**, I focus on designing backend platform
 ---
 
 ## ⭐ Featured Projects
-
+###  AI Sales Agent 
 
 **Problem**: Many businesses struggle with handling customer inquiries, qualifying leads, and following up consistently, resulting in lost sales opportunities and inefficient manual processes.
 
