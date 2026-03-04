@@ -17,8 +17,17 @@ As the **Founder of NexaPy Technologies**, I focus on designing backend platform
 
 ## ⭐ Featured Projects
 
-###  Django CBT Platform
 
+**Problem**: Many businesses struggle with handling customer inquiries, qualifying leads, and following up consistently, resulting in lost sales opportunities and inefficient manual processes.
+
+**Solution:** An AI-powered sales agent that automates customer interactions, qualifies leads intelligently, responds in real-time, and streamlines the sales process to improve conversion rates and operational efficiency.
+
+**Tech:** Python, Django, Django-restframework, OpenAI model and  LLAMA model
+
+🔗 Repo: https://github.com/nexapytech/AI-Sales-Agent
+
+
+###  Django CBT Platform
 **Problem:** Traditional examination systems are prone to cheating, require heavy manual effort, and consume a lot of time.  
 **Solution:** A computer-based testing (CBT) platform that minimizes cheating, reduces administrative workload, and improves time efficiency for both students and administrators.  
 **Tech:** Python, Django, MySQL, HTML/CSS  
